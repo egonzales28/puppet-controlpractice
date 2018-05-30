@@ -19,5 +19,5 @@ forge 'https://forge.puppet.com'
 
 mod 'apache',
   :git    => 'https://github.com/egonzales28/puppethome-ssh.git',
-  :branch => 'production'
+  :branch => 'master'
 
